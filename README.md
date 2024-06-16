@@ -1,6 +1,6 @@
 # Backend Server for integrating pre-trained machine learning model for sentiment analysis with a secure file handling system and secure authentication using Express.js and MongoDB.
 
-** MVC Pattern is used to built this server **
+### MVC Pattern is used to built this server
 
 ```
 Model - modeling and structering the NoSQL database
@@ -17,9 +17,10 @@ https://elements.getpostman.com/redirect?entityId=21207467-36ce5986-593f-46a1-84
 # contact Details
 
 ```
-Name: Devarla Nand Kishore
-Mobile: 9346921679
+Name: DEVARLA NAND KISHORE
 Email: nandk4552@gmail.com
+LinkedIn: https://www.linkedin.com/in/nandk4552/ 
+Twitter: https://x.com/nandk_1
 ```
 
 # setup and initialization
